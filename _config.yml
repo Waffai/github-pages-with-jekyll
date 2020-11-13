@@ -1,4 +1,5 @@
 title: Title in the config.yml
+theme: minima
 author: No One
 email: wuaf@siafiaf.com
 description: > # this means to ignore newlines until "baseurl:"
